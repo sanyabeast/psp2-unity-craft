@@ -11,3 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene/VeryBasicScene.unity
     guid: 205e2a444256faa4c8e7d9690c94d5c7
+  - enabled: 1
+    path: Assets/Scene/Racing.unity
+    guid: 8b6a0b638f3c03649897419ee8e8bd84
